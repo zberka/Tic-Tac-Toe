@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Tic-Tac-Toe (Kotlin)/*
+!/Simple Tic-Tac-Toe (Kotlin)/task/
+/Simple Tic-Tac-Toe (Kotlin)/task/*
+!/Simple Tic-Tac-Toe (Kotlin)/task/src
